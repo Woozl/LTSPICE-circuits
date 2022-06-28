@@ -14,7 +14,7 @@ Collection of my various analog circuit simulations.
 </details>
 
 <details>
-<summary>class-b-transformerless.asc</summary>
+<summary>class-b-transformerless</summary>
 <p>Class B amplifier using matched transistors conducting during each half-cycle</p>
 <img src='screencaps/class-b-transformerless.png' />
 </details>
